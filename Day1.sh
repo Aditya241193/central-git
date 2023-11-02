@@ -32,3 +32,6 @@ echo "$$ :-this built-in variable is used display process Id of the current proc
 #wildcards to list all the files with a specific extension in a directory.
 
 echo " $( ls -l *.sh )"
+
+
+echo " Welcome to git Day 1 "
