@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 #This echo command prints message on the terminal. 
@@ -34,4 +35,11 @@ echo "$$ :-this built-in variable is used display process Id of the current proc
 echo " $( ls -l *.sh )"
 
 
-echo " Welcome to git Day 1 "
+echo " Welcome to git Day 1"
+
+
+
+
+echo " product of above nums is $(($num1*$num2)) " 
+
+
